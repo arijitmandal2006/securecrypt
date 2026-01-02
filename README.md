@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b27f42fa-7ecd-4b3b-8067-b68bea507619" />
+<img width="1024" height="400" alt="image" src="https://github.com/user-attachments/assets/b27f42fa-7ecd-4b3b-8067-b68bea507619" />
 <p align="center">
 <img src="https://img.shields.io/badge/Language-C-blue">
 <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey">
@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/Purpose-Educational%20Cryptography-lightblue">
 <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
-🛡️ SecureCrypt: Modular Encryption System in C
+
+
+**🛡️ SecureCrypt: Modular Encryption System in C**
 ===================================================
 
 **A terminal-based, menu-driven encryption tool featuring custom SHA-256 key derivation and AES-128 symmetric encryption.**
